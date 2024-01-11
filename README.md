@@ -22,7 +22,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/family-travel-tracker.git
+   git clone https://github.com/TanmayAgrawal2764/family-travel-tracker.git
 2. Navigate to the project directory:
    ```bash
    cd family-travel-tracker
@@ -51,7 +51,3 @@ Tanmay Agrawal
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-Make sure to replace placeholders like `"yourusername"` with your actual GitHub username and update the `Authors` section with your name. Adjust the content based on the specific details of your project.
-

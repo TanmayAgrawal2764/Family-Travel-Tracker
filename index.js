@@ -1,15 +1,16 @@
 import express from "express";
 import bodyParser from "body-parser";
 import pg from "pg";
+import env from "dotenv";
 
+env.config();
 const app = express();
 const port = 3000;
-
 const db = new pg.Client({
-  user: "ruszalsg",
-  host: "rogue.db.elephantsql.com",
-  database: "ruszalsg",
-  password: "1Ioj7mbx_6OxjdlsSi0oDGHe_ZO5umR8",
+  user: process.env.USERR,
+  host: process.env.HOST,
+  database: process.env.DATABASE,
+  password: process.env.PASSWORD,
   port: 5432,
 });
 await db.connect();

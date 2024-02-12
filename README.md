@@ -1,9 +1,10 @@
 # Family-Travel-Tracker
 
 Family Travel Tracker is a web application that allows you to keep track of the countries your family has visited. It provides a user-friendly interface to add and view visited countries, along with user management features.
-You can view live demo here :- https://dx447w-3000.csb.app/ (Note Please:- There is a high chance that you will get 502 error. So just 
-1. click on "start from editor" and then after loading of the page, you will see the actual error in the terminal/console in left bottom side as follows:- "[nodemon] app crashed - waiting for file changes before starting..." in red color. 
-2. Just below this write "rs" and enter. Your error will be removed and on the right side the result will be shown or you can just reaccess the above link on the new tab.)
+You can view live demo here :- https://dx447w-3000.csb.app/ (Note Please:- There is a high chance that you will get 502 error. So just do following:-
+
+1. Click on "start from editor" and then after loading of the page, you will see the actual error in the terminal/console in left bottom side as follows:- "[nodemon] app crashed - waiting for file changes before starting..." in red color. 
+2. If "restart" button is appearing click on it or Just below this error line, write "rs" and enter. Your error will be removed and on the right side the result will be shown or you can just reaccess the above link on the new tab.)
 
 ## Features
 
